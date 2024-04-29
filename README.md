@@ -1,2 +1,2 @@
-# Diamond-Price-quality-prediction
+# Diamond price prediction
 
